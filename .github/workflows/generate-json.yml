@@ -34,7 +34,8 @@ jobs:
           python -m pip install --upgrade pip
           
       - name: execute py script 
-        run: charters-dev.py
+        run: |
+          python charters-dev.py
           
       - name: commit files
         run: |
