@@ -8,7 +8,12 @@ name: generate JSON
 on:
   schedule:
     - cron: '0 12 * * *' # runs at 12:00 UTC everyday
-
+ 
+  issues:
+    types:
+      - opened
+      - labeled
+      
 jobs:
   gen:
     # The type of runner that the job will run on
