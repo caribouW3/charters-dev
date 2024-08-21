@@ -1,10 +1,6 @@
-# This is a basic workflow that is manually triggered
-
 name: generate JSON
 # generates json file from charter-related issues in W3C GH repo strategy
 
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
   schedule:
     - cron: '0 12 * * *' # runs at 12:00 UTC everyday
@@ -22,10 +18,10 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
+        uses: actions/checkout@v4 # checkout the repository content to github runner
 
       - name: setup python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3' # install the python version needed
           
@@ -46,7 +42,7 @@ jobs:
           git commit -m "update json" -a
           
       - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
