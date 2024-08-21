@@ -34,7 +34,13 @@ jobs:
         run: |
           python charters-dev.py
           
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+          
       - name: commit files
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --local user.email "carine+gh@w3.org"
           git config --local user.name "GitHub Action"
@@ -42,6 +48,7 @@ jobs:
           git commit -m "update json" -a
           
       - name: push changes
+        if: steps.verify_diff.outputs.changed == 'true'
         uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
