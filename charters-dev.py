@@ -1,7 +1,7 @@
 import requests
 import json
 
-res = requests.get("https://api.github.com/repos/w3c/strategy/issues?state=open&labels=charter")
+res = requests.get("https://api.github.com/repos/w3c/strategy/issues?state=open&labels=charter&per_page=100")
 
 issues_list = json.loads(res.text)
 
@@ -32,7 +32,10 @@ for i in issues:
 			# probably gets a 401.
 		elif l["name"] == "Advance Notice Sent" and i["state"] == "emerging":
 			i.update({"state":"Advance notice"})
-	del i["labels"]
+	#del i["labels"]
+	fields = {'name'}
+        l = [{k:v for (k,v) in label.items() if k in fields} for label in i["labels"]]
+        i.update({"labels":l})
 	#print (i['title']+' '+i['state'])
 
 # Show json
