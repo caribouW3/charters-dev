@@ -3,6 +3,17 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/478",
         "html_url": "https://github.com/w3c/strategy/issues/478",
         "title": "[wg/rch] RDF Datasets Canonicalization and Hash WG recharter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-08-15T10:51:54Z",
         "state": "HR",
         "review_link": ""
@@ -11,6 +22,20 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/477",
         "html_url": "https://github.com/w3c/strategy/issues/477",
         "title": "[wg/css] CSS Working Group Charter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-08-13T12:46:03Z",
         "state": "HR",
         "review_link": ""
@@ -19,6 +44,17 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/476",
         "html_url": "https://github.com/w3c/strategy/issues/476",
         "title": "[wg/shaclwg] SHACL WG Charter",
+        "labels": [
+            {
+                "name": "Data"
+            },
+            {
+                "name": "Agenda+"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-08-08T11:48:27Z",
         "state": "emerging",
         "review_link": ""
@@ -27,6 +63,11 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/474",
         "html_url": "https://github.com/w3c/strategy/issues/474",
         "title": "[wg/sdw] Spatial Data on the Web Working Group Charter",
+        "labels": [
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-07-22T16:14:03Z",
         "state": "emerging",
         "review_link": ""
@@ -35,6 +76,32 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/470",
         "html_url": "https://github.com/w3c/strategy/issues/470",
         "title": "[wg/audio] Audio Group Charter",
+        "labels": [
+            {
+                "name": "Core"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "AC review"
+            }
+        ],
         "created_at": "2024-06-16T15:32:42Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
@@ -43,6 +110,26 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/468",
         "html_url": "https://github.com/w3c/strategy/issues/468",
         "title": "[wg/i18n-core, ig/i18n] i18n WG & IG rechartering 2024",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-06-14T06:42:23Z",
         "state": "HR",
         "review_link": ""
@@ -51,6 +138,38 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/467",
         "html_url": "https://github.com/w3c/strategy/issues/467",
         "title": "[wg/rdf-star] RDF-star Group Charter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "privacy-tracker"
+            },
+            {
+                "name": "i18n-tracker"
+            },
+            {
+                "name": "security-tracker"
+            },
+            {
+                "name": "tag-tracker"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-06-13T17:44:46Z",
         "state": "HR",
         "review_link": ""
@@ -59,6 +178,29 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/466",
         "html_url": "https://github.com/w3c/strategy/issues/466",
         "title": "[wg/aria] [Accessible Rich Internet Applications] Group Charter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "privacy-tracker"
+            },
+            {
+                "name": "tag-tracker"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-06-12T11:25:54Z",
         "state": "HR",
         "review_link": ""
@@ -67,6 +209,11 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/464",
         "html_url": "https://github.com/w3c/strategy/issues/464",
         "title": "[wg/html] HTML Working Group Recharter",
+        "labels": [
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-06-06T09:25:07Z",
         "state": "emerging",
         "review_link": ""
@@ -75,6 +222,14 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/461",
         "html_url": "https://github.com/w3c/strategy/issues/461",
         "title": "[wg/aria] PDF Accessibility API mappings",
+        "labels": [
+            {
+                "name": "Accessibility"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-05-23T15:50:59Z",
         "state": "emerging",
         "review_link": ""
@@ -83,6 +238,11 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/460",
         "html_url": "https://github.com/w3c/strategy/issues/460",
         "title": "[ig/psig] Patents and Standards Interest Group Recharter",
+        "labels": [
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-05-19T15:16:37Z",
         "state": "emerging",
         "review_link": ""
@@ -91,6 +251,23 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/458",
         "html_url": "https://github.com/w3c/strategy/issues/458",
         "title": "joint work on rights-respecting digital credentials",
+        "labels": [
+            {
+                "name": "privacy-tracker"
+            },
+            {
+                "name": "security-tracker"
+            },
+            {
+                "name": "tag-tracker"
+            },
+            {
+                "name": "Agenda+"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-05-14T13:05:56Z",
         "state": "emerging",
         "review_link": ""
@@ -99,6 +276,11 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/457",
         "html_url": "https://github.com/w3c/strategy/issues/457",
         "title": "[wg/webapps] Rechartering Web Applications Group Charter (closing Services Worker WG)",
+        "labels": [
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-05-03T16:15:40Z",
         "state": "emerging",
         "review_link": ""
@@ -107,6 +289,29 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/455",
         "html_url": "https://github.com/w3c/strategy/issues/455",
         "title": "[wg/vc] Verifiable Credentials WG recharter",
+        "labels": [
+            {
+                "name": "Data"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-04-17T15:49:50Z",
         "state": "HR",
         "review_link": ""
@@ -115,6 +320,17 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/451",
         "html_url": "https://github.com/w3c/strategy/issues/451",
         "title": "[ig/exploration] Exploration Group",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "i18n-needs-resolution"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-03-29T17:12:28Z",
         "state": "HR",
         "review_link": ""
@@ -123,6 +339,35 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/450",
         "html_url": "https://github.com/w3c/strategy/issues/450",
         "title": "[wg/fedid] Adding Digital Credentials to the FedID WG",
+        "labels": [
+            {
+                "name": "Security"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "AC review"
+            }
+        ],
         "created_at": "2024-03-27T18:31:20Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
@@ -131,6 +376,29 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/449",
         "html_url": "https://github.com/w3c/strategy/issues/449",
         "title": "[ig/security] Security Interest Group Charter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "AC review"
+            }
+        ],
         "created_at": "2024-03-26T12:09:46Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
@@ -139,6 +407,32 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/447",
         "html_url": "https://github.com/w3c/strategy/issues/447",
         "title": "[wg/immersive-web] Immersive-Web Working Group Charter",
+        "labels": [
+            {
+                "name": "Media"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-02-21T03:08:21Z",
         "state": "HR",
         "review_link": ""
@@ -147,6 +441,32 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/445",
         "html_url": "https://github.com/w3c/strategy/issues/445",
         "title": "[wg/webtransport] WebTransport Working Group rechartering",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "AC review"
+            }
+        ],
         "created_at": "2024-02-02T20:17:03Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0006.html). [Public announcement](https://lists.w3.org/Archives/Member/chairs/2024JulSep/0012.html)"
@@ -155,6 +475,14 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/443",
         "html_url": "https://github.com/w3c/strategy/issues/443",
         "title": "[wg/rml] RML Working Group",
+        "labels": [
+            {
+                "name": "Data"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-01-12T13:19:24Z",
         "state": "emerging",
         "review_link": ""
@@ -163,6 +491,11 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/441",
         "html_url": "https://github.com/w3c/strategy/issues/441",
         "title": "[ig/wai] WAI IG recharter",
+        "labels": [
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2024-01-04T03:44:00Z",
         "state": "emerging",
         "review_link": ""
@@ -171,6 +504,23 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/428",
         "html_url": "https://github.com/w3c/strategy/issues/428",
         "title": "[wg/eowg] Closing the Accessibility EOWG",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2023-09-07T20:37:23Z",
         "state": "HR",
         "review_link": ""
@@ -179,6 +529,32 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/420",
         "html_url": "https://github.com/w3c/strategy/issues/420",
         "title": "[wg/sustyweb] Sustainable Web Working Group",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "AC review"
+            }
+        ],
         "created_at": "2023-07-26T14:56:14Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0048.html). [Public announcement](https://lists.w3.org/Archives/Public/public-new-work/2024Jun/0008.html)."
@@ -187,6 +563,38 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/414",
         "html_url": "https://github.com/w3c/strategy/issues/414",
         "title": "[wg/privacy] Privacy Working Group",
+        "labels": [
+            {
+                "name": "Privacy"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "privacy-tracker"
+            },
+            {
+                "name": "tag-tracker"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "Council"
+            }
+        ],
         "created_at": "2023-06-05T18:49:50Z",
         "state": "Council",
         "review_link": ""
@@ -195,6 +603,38 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/377",
         "html_url": "https://github.com/w3c/strategy/issues/377",
         "title": "[wg/lws] Proposed charter: Linked Web Storage Working Group (ex Solid)",
+        "labels": [
+            {
+                "name": "Data"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "tag-tracker"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "TAG review completed"
+            },
+            {
+                "name": "charter"
+            }
+        ],
         "created_at": "2023-03-27T17:01:06Z",
         "state": "HR",
         "review_link": ""
@@ -203,6 +643,29 @@
         "url": "https://api.github.com/repos/w3c/strategy/issues/222",
         "html_url": "https://github.com/w3c/strategy/issues/222",
         "title": "[wg/pat] Privacy-preserving advertising",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Accessibility review completed"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            },
+            {
+                "name": "Council"
+            }
+        ],
         "created_at": "2020-05-04T06:44:02Z",
         "state": "Council",
         "review_link": ""
