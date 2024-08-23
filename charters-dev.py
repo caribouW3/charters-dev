@@ -34,8 +34,8 @@ for i in issues:
 			i.update({"state":"Advance notice"})
 	#del i["labels"]
 	fields = {'name'}
-        l = [{k:v for (k,v) in label.items() if k in fields} for label in i["labels"]]
-        i.update({"labels":l})
+	l = [{k:v for (k,v) in label.items() if k in fields} for label in i["labels"]]
+	i.update({"labels":l})
 	#print (i['title']+' '+i['state'])
 
 # Show json
