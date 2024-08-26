@@ -11,6 +11,9 @@
                 "name": "Accessibility review completed"
             },
             {
+                "name": "Internationalization review completed"
+            },
+            {
                 "name": "charter"
             }
         ],
