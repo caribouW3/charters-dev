@@ -68,11 +68,14 @@
         "title": "[wg/sdw] Spatial Data on the Web Working Group Charter",
         "labels": [
             {
+                "name": "Horizontal review requested"
+            },
+            {
                 "name": "charter"
             }
         ],
         "created_at": "2024-07-22T16:14:03Z",
-        "state": "emerging",
+        "state": "HR",
         "review_link": ""
     },
     {
