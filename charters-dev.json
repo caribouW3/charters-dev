@@ -14,6 +14,9 @@
                 "name": "Internationalization review completed"
             },
             {
+                "name": "Privacy review completed"
+            },
+            {
                 "name": "charter"
             }
         ],
@@ -46,7 +49,7 @@
     {
         "url": "https://api.github.com/repos/w3c/strategy/issues/476",
         "html_url": "https://github.com/w3c/strategy/issues/476",
-        "title": "[wg/shacl] SHACL WG Charter",
+        "title": "[wg/data-shapes] SHACL WG Charter",
         "labels": [
             {
                 "name": "Data"
@@ -199,6 +202,9 @@
             },
             {
                 "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
             },
             {
                 "name": "privacy-tracker"
