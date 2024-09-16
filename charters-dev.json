@@ -39,6 +39,9 @@
                 "name": "Internationalization review completed"
             },
             {
+                "name": "Security review completed"
+            },
+            {
                 "name": "charter"
             }
         ],
@@ -55,6 +58,9 @@
                 "name": "Data"
             },
             {
+                "name": "Horizontal review requested"
+            },
+            {
                 "name": "Advance Notice Sent"
             },
             {
@@ -62,7 +68,7 @@
             }
         ],
         "created_at": "2024-08-08T11:48:27Z",
-        "state": "Advance notice",
+        "state": "HR",
         "review_link": ""
     },
     {
