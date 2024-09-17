@@ -407,6 +407,9 @@
                 "name": "Security review completed"
             },
             {
+                "name": "Privacy review completed"
+            },
+            {
                 "name": "Advance Notice Sent"
             },
             {
@@ -598,6 +601,9 @@
             },
             {
                 "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
             },
             {
                 "name": "Advance Notice Sent"
