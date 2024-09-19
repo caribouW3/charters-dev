@@ -61,6 +61,9 @@
                 "name": "Horizontal review requested"
             },
             {
+                "name": "Privacy review completed"
+            },
+            {
                 "name": "Advance Notice Sent"
             },
             {
@@ -81,6 +84,9 @@
             },
             {
                 "name": "Internationalization review completed"
+            },
+            {
+                "name": "Privacy review completed"
             },
             {
                 "name": "Advance Notice Sent"
@@ -539,11 +545,14 @@
             },
             {
                 "name": "charter"
+            },
+            {
+                "name": "AC review"
             }
         ],
         "created_at": "2023-07-26T14:56:14Z",
-        "state": "HR",
-        "review_link": ""
+        "state": "AC review",
+        "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0048.html). [Public announcement](https://lists.w3.org/Archives/Public/public-new-work/2024Jun/0008.html)."
     },
     {
         "url": "https://api.github.com/repos/w3c/strategy/issues/414",
