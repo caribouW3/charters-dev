@@ -496,6 +496,19 @@
         "review_link": ""
     },
     {
+        "url": "https://api.github.com/repos/w3c/strategy/issues/435",
+        "html_url": "https://github.com/w3c/strategy/issues/435",
+        "title": "[wg/social] Restarting the Social Web Working Group",
+        "labels": [
+            {
+                "name": "charter"
+            }
+        ],
+        "created_at": "2023-10-06T15:30:29Z",
+        "state": "emerging",
+        "review_link": ""
+    },
+    {
         "url": "https://api.github.com/repos/w3c/strategy/issues/428",
         "html_url": "https://github.com/w3c/strategy/issues/428",
         "title": "[wg/eowg] Closing the Accessibility EOWG",
