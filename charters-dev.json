@@ -1,5 +1,21 @@
 [
     {
+        "url": "https://api.github.com/repos/w3c/strategy/issues/480",
+        "html_url": "https://github.com/w3c/strategy/issues/480",
+        "title": "[wg/gpu] GPU for the Web WG recharter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "charter"
+            }
+        ],
+        "created_at": "2024-09-20T15:22:13Z",
+        "state": "HR",
+        "review_link": ""
+    },
+    {
         "url": "https://api.github.com/repos/w3c/strategy/issues/478",
         "html_url": "https://github.com/w3c/strategy/issues/478",
         "title": "[wg/rch] RDF Datasets Canonicalization and Hash WG recharter",
@@ -388,12 +404,12 @@
                 "name": "charter"
             },
             {
-                "name": "AC review"
+                "name": "Council"
             }
         ],
         "created_at": "2024-03-27T18:31:20Z",
-        "state": "AC review",
-        "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
+        "state": "Council",
+        "review_link": ""
     },
     {
         "url": "https://api.github.com/repos/w3c/strategy/issues/449",
