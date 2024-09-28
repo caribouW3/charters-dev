@@ -66,31 +66,6 @@
         "review_link": ""
     },
     {
-        "url": "https://api.github.com/repos/w3c/strategy/issues/476",
-        "html_url": "https://github.com/w3c/strategy/issues/476",
-        "title": "[wg/data-shapes] Data Shapes WG Charter",
-        "labels": [
-            {
-                "name": "Data"
-            },
-            {
-                "name": "Horizontal review requested"
-            },
-            {
-                "name": "Privacy review completed"
-            },
-            {
-                "name": "Advance Notice Sent"
-            },
-            {
-                "name": "charter"
-            }
-        ],
-        "created_at": "2024-08-08T11:48:27Z",
-        "state": "HR",
-        "review_link": ""
-    },
-    {
         "url": "https://api.github.com/repos/w3c/strategy/issues/474",
         "html_url": "https://github.com/w3c/strategy/issues/474",
         "title": "[wg/sdw] Spatial Data on the Web Working Group Charter",
