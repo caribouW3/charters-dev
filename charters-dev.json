@@ -66,6 +66,34 @@
         "review_link": ""
     },
     {
+        "url": "https://api.github.com/repos/w3c/strategy/issues/476",
+        "html_url": "https://github.com/w3c/strategy/issues/476",
+        "title": "[wg/data-shapes] Data Shapes WG Charter",
+        "labels": [
+            {
+                "name": "Data"
+            },
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "Internationalization review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
+                "name": "Advance Notice Sent"
+            },
+            {
+                "name": "charter"
+            }
+        ],
+        "created_at": "2024-08-08T11:48:27Z",
+        "state": "HR",
+        "review_link": ""
+    },
+    {
         "url": "https://api.github.com/repos/w3c/strategy/issues/474",
         "html_url": "https://github.com/w3c/strategy/issues/474",
         "title": "[wg/sdw] Spatial Data on the Web Working Group Charter",
@@ -248,7 +276,7 @@
     {
         "url": "https://api.github.com/repos/w3c/strategy/issues/460",
         "html_url": "https://github.com/w3c/strategy/issues/460",
-        "title": "[ig/psig] Patents and Standards Interest Group Recharter",
+        "title": "[ig/psig] Patents and Standards Interest Group (PSIG) Recharter",
         "labels": [
             {
                 "name": "charter"
@@ -417,43 +445,6 @@
             }
         ],
         "created_at": "2024-03-26T12:09:46Z",
-        "state": "AC review",
-        "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
-    },
-    {
-        "url": "https://api.github.com/repos/w3c/strategy/issues/447",
-        "html_url": "https://github.com/w3c/strategy/issues/447",
-        "title": "[wg/immersive-web] Immersive-Web Working Group Charter",
-        "labels": [
-            {
-                "name": "Media"
-            },
-            {
-                "name": "Horizontal review requested"
-            },
-            {
-                "name": "Accessibility review completed"
-            },
-            {
-                "name": "Internationalization review completed"
-            },
-            {
-                "name": "Security review completed"
-            },
-            {
-                "name": "Privacy review completed"
-            },
-            {
-                "name": "Advance Notice Sent"
-            },
-            {
-                "name": "charter"
-            },
-            {
-                "name": "AC review"
-            }
-        ],
-        "created_at": "2024-02-21T03:08:21Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
     },
