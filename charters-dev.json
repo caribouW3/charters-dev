@@ -8,6 +8,9 @@
                 "name": "Horizontal review requested"
             },
             {
+                "name": "Internationalization review completed"
+            },
+            {
                 "name": "charter"
             }
         ],
@@ -28,6 +31,9 @@
             },
             {
                 "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
             },
             {
                 "name": "Privacy review completed"
@@ -80,6 +86,9 @@
                 "name": "Internationalization review completed"
             },
             {
+                "name": "Security review completed"
+            },
+            {
                 "name": "Privacy review completed"
             },
             {
@@ -103,6 +112,9 @@
             },
             {
                 "name": "Internationalization review completed"
+            },
+            {
+                "name": "Security review completed"
             },
             {
                 "name": "Privacy review completed"
