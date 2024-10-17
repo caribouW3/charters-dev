@@ -253,9 +253,6 @@
         "title": "[wg/aria] [Accessible Rich Internet Applications] Group Charter",
         "labels": [
             {
-                "name": "Horizontal review requested"
-            },
-            {
                 "name": "Accessibility review completed"
             },
             {
@@ -268,9 +265,6 @@
                 "name": "Privacy review completed"
             },
             {
-                "name": "privacy-tracker"
-            },
-            {
                 "name": "tag-tracker"
             },
             {
@@ -278,7 +272,7 @@
             }
         ],
         "created_at": "2024-06-12T11:25:54Z",
-        "state": "HR",
+        "state": "emerging",
         "review_link": ""
     },
     {
@@ -544,46 +538,6 @@
         "created_at": "2023-07-26T14:56:14Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024AprJun/0048.html). [Public announcement](https://lists.w3.org/Archives/Public/public-new-work/2024Jun/0008.html)."
-    },
-    {
-        "url": "https://api.github.com/repos/w3c/strategy/issues/414",
-        "html_url": "https://github.com/w3c/strategy/issues/414",
-        "title": "[wg/privacy] Privacy Working Group",
-        "labels": [
-            {
-                "name": "Privacy"
-            },
-            {
-                "name": "Horizontal review requested"
-            },
-            {
-                "name": "Accessibility review completed"
-            },
-            {
-                "name": "Internationalization review completed"
-            },
-            {
-                "name": "Privacy review completed"
-            },
-            {
-                "name": "privacy-tracker"
-            },
-            {
-                "name": "tag-tracker"
-            },
-            {
-                "name": "Advance Notice Sent"
-            },
-            {
-                "name": "charter"
-            },
-            {
-                "name": "Council"
-            }
-        ],
-        "created_at": "2023-06-05T18:49:50Z",
-        "state": "Council",
-        "review_link": ""
     },
     {
         "url": "https://api.github.com/repos/w3c/strategy/issues/222",
