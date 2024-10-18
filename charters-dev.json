@@ -1,5 +1,21 @@
 [
     {
+        "url": "https://api.github.com/repos/w3c/strategy/issues/481",
+        "html_url": "https://github.com/w3c/strategy/issues/481",
+        "title": "[wg/pm] Publishing Maintenance Working Group Recharter",
+        "labels": [
+            {
+                "name": "Horizontal review requested"
+            },
+            {
+                "name": "charter"
+            }
+        ],
+        "created_at": "2024-10-18T06:36:52Z",
+        "state": "HR",
+        "review_link": ""
+    },
+    {
         "url": "https://api.github.com/repos/w3c/strategy/issues/480",
         "html_url": "https://github.com/w3c/strategy/issues/480",
         "title": "[wg/gpu] GPU for the Web WG recharter",
@@ -170,37 +186,6 @@
             }
         ],
         "created_at": "2024-06-16T15:32:42Z",
-        "state": "AC review",
-        "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
-    },
-    {
-        "url": "https://api.github.com/repos/w3c/strategy/issues/468",
-        "html_url": "https://github.com/w3c/strategy/issues/468",
-        "title": "[wg/i18n-core, ig/i18n] i18n WG & IG rechartering 2024",
-        "labels": [
-            {
-                "name": "Horizontal review requested"
-            },
-            {
-                "name": "Accessibility review completed"
-            },
-            {
-                "name": "Internationalization review completed"
-            },
-            {
-                "name": "Security review completed"
-            },
-            {
-                "name": "Privacy review completed"
-            },
-            {
-                "name": "charter"
-            },
-            {
-                "name": "AC review"
-            }
-        ],
-        "created_at": "2024-06-14T06:42:23Z",
         "state": "AC review",
         "review_link": "[AC Review started](https://lists.w3.org/Archives/Member/w3c-ac-members/2024JulSep/0010.html)"
     },
