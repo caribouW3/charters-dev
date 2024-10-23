@@ -370,6 +370,9 @@
                 "name": "Horizontal review requested"
             },
             {
+                "name": "Security review completed"
+            },
+            {
                 "name": "i18n-needs-resolution"
             },
             {
