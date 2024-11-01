@@ -8,6 +8,9 @@
                 "name": "Horizontal review requested"
             },
             {
+                "name": "Internationalization review completed"
+            },
+            {
                 "name": "Security review completed"
             },
             {
