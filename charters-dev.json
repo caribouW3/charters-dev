@@ -42,6 +42,12 @@
                 "name": "Internationalization review completed"
             },
             {
+                "name": "Security review completed"
+            },
+            {
+                "name": "Privacy review completed"
+            },
+            {
                 "name": "charter"
             }
         ],
