@@ -2,8 +2,8 @@ name: generate JSON
 # generates json file from charter-related issues in W3C GH repo strategy
 
 on:
-  schedule:
-    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+#  schedule:
+#    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
  
   issues:
     types:
